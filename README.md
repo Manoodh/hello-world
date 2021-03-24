@@ -1,2 +1,2 @@
 # hello-world
-I like coding html,css etc.
+I like Computers and coding.
